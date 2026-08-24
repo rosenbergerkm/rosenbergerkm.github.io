@@ -9,11 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: asdf
-  orcid: asdf
-  google-scholar: asdf
   github: asdf
-  twitter: asdf
-  youtube: asdf
+
 
 ### jekyll settings
 
