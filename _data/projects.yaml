@@ -8,17 +8,19 @@
   tags:
     - community
     - synchronous instruction and pedagogy
+    
   
 - title: Climate Change - Unit Plan
   subtitle: Document
   group: featured
   image: images/UPdoc.png
-  link: https://docs.google.com/document/d/1oLaiZ96VhSvsNV77XD1gTXVQWGE5VZK_/edit?usp=sharing&ouid=111276740905262887834&rtpof=true&sd=true
+  link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Weather%20and%20Climate%20Unit%20Plan
   description: An essay about CDL and Climate Change.
   repo: rosenbergerkm.github.io
   tags:
     - design
     - culturally responsive teaching
+    
 
 - title: Canvas Course Outline Example
   subtitle: PDF
@@ -30,34 +32,6 @@
     - design
     - community
 
-- title: VR Meeting Spaces
-  subtitle: Powerpoint Slides
-  image: images/spatial.png
-  link: https://docs.google.com/presentation/d/1UK5eNCrN_NHAAT_z4gIf5Py11-KhHjAe/edit?usp=sharing&ouid=111276740905262887834&rtpof=true&sd=true
-  description: Slides for presentation about VR Programs.
-  repo: rosenbergerkm.github.io
-  tags:
-    - emerging technology
-    - synchronous instruction and pedagogy
-
-- title: Horizon Workrooms
-  subtitle: Powerpoint Slides
-  image: images/workrooms.png
-  link: https://docs.google.com/presentation/d/1xejmxisH55UAkanwQJJgqeU7W2OzPr5S31j6BVLRBis/edit?usp=sharing
-  description: Slides for Horizon Workrooms.
-  repo: rosenbergerkm.github.io
-  tags:
-    - emerging technology
-    - synchronous instruction and pedagogy
-
-- title: Critical Digital Literacy and Climate Change
-  subtitle: Essay
-  image: images/cdlessay.png
-  link: https://docs.google.com/document/d/1CkUvvgHPGMynq8oB9BwPfkkwwTl5lMYS/edit?usp=sharing&ouid=111276740905262887834&rtpof=true&sd=true
-  description: An essay about CDL and Climate Change.
-  repo: rosenbergerkm.github.io
-  tags:
-    - culturally responsive teaching
 
 - title: Nine Elements of Digital Citizenship
   subtitle: PDF
@@ -87,7 +61,7 @@
   tags:
     - design
 
-    
+
 - title: Zoom Webinar
   subtitle: Video
   image: images/groupwebinar.png
@@ -98,15 +72,7 @@
     - team work
     - emerging technology
 
-- title: TPACK MLC Peer Evaluation
-  subtitle: Document
-  image: images/MLCEVAL.png
-  link: https://docs.google.com/document/d/1H6LPqBHZd_eEBK9ls1eP2GXgnclj4R198iqDusYsmoc/edit?usp=sharing
-  description: A team course review for an MLC.
-  repo: rosenbergerkm.github.io
-  tags:
-    - team work
-    - design
+
 
 - title: TPACK MLC Course Design
   subtitle: Document
