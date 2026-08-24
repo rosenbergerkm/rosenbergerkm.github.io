@@ -8,8 +8,8 @@ proofer: false
 
 # site social media and other links
 links:
-  email: asdf
-  github: asdf
+  email: rosenbergerkm@gmail.com
+  github: https://rosenbergerkm.github.io/
 
 
 ### jekyll settings
