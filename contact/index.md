@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Contact me by email or phone. View UNM Los Alamos on Google Maps by clicking Address.
+Contact me by email by clicking the button below.
 
 {%
   include button.html
