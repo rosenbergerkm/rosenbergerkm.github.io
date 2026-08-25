@@ -22,7 +22,7 @@ Here you'll find content related to Design, Pedagogy, Culturally Responsive Teac
 
 {%
   include feature.html
-  image="images/workshop.png"
+  image="images/onlinestudent.png"
   link="projects"
   title="My Content and Projects"
   flip=true
