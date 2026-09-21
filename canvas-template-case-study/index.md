@@ -1,7 +1,7 @@
 ---
 title: Canvas Course Template
 ---
-
+# Canvas Course Template
 
 ## The Problem
 
