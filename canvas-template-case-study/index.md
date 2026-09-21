@@ -5,11 +5,21 @@ title: Canvas Course Template
 
 ## The Problem
 
+{% capture content %}
+{% include figure.html image="images/template-problem.png" caption="Caption here" width="300px" %}
+{% endcapture %}
+{% include float.html content=content %}
+
 Instructors — often subject-matter experts without prior experience building courses in a learning management system — need a starting point that shows them how to structure content using Canvas Modules. At the same time, students need consistent access to support resources (help documentation, links to student services) regardless of which instructor's course they're in, which isn't guaranteed if each instructor builds independently from scratch.
 
-{% include figure.html image="images/template-problem.png" caption="Caption describing this screenshot" width="600px" %}
+{% include float.html clear=true %}
 
 ## My Approach
+
+{% capture content %}
+{% include figure.html image="images/template-approach.png" caption="Caption here" width="300px" %}
+{% endcapture %}
+{% include float.html content=content flip=true %}
 
 I inherited an existing course template and significantly revised it, focusing on four areas:
 
@@ -18,10 +28,13 @@ I inherited an existing course template and significantly revised it, focusing o
 - **Reformatted content to be more concise**, making it faster and easier for instructors to parse and use
 - **Overhauled the homepage** to be simpler for instructors to edit, while also building in space for instructor presence — a known factor in student engagement and retention in online courses
 
-{% include figure.html image="images/template-approach.png" caption="Caption describing this screenshot" width="600px" %}
+{% include float.html clear=true %}
 
 ## The Result
 
-The revised template is now widely used by instructors across the college, giving every course built from it a consistent, accessible foundation and a documented path to including instructor presence from day one.
+{% capture content %}
+{% include figure.html image="images/template-result.png" caption="Caption here" width="300px" %}
+{% endcapture %}
+{% include float.html content=content %}
 
-{% include figure.html image="images/template-result.png" caption="Caption describing this screenshot" width="600px" %}
+The revised template is now widely used by
