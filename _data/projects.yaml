@@ -83,3 +83,14 @@
   tags:
     - team work
     - design
+
+
+- title: Canvas Course Template
+  subtitle: Case Study
+  image: images/TPACKMLC.png
+  link: https://rosenbergerkm.github.io/canvas-template-case-study/
+  description: The Canvs Course template
+  repo: rosenbergerkm.github.io
+  tags:
+    - design
+    - accessibility
