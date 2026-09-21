@@ -1,5 +1,3 @@
-yaml
-
 ---
 title: Canvas Course Template
 ---
