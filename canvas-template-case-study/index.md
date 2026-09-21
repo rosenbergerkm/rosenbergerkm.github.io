@@ -7,6 +7,8 @@ title: Canvas Course Template
 
 Instructors — often subject-matter experts without prior experience building courses in a learning management system — need a starting point that shows them how to structure content using Canvas Modules. At the same time, students need consistent access to support resources (help documentation, links to student services) regardless of which instructor's course they're in, which isn't guaranteed if each instructor builds independently from scratch.
 
+{% include figure.html image="images/template-problem.png" caption="Caption describing this screenshot" width="600px" %}
+
 ## My Approach
 
 I inherited an existing course template and significantly revised it, focusing on four areas:
@@ -16,6 +18,10 @@ I inherited an existing course template and significantly revised it, focusing o
 - **Reformatted content to be more concise**, making it faster and easier for instructors to parse and use
 - **Overhauled the homepage** to be simpler for instructors to edit, while also building in space for instructor presence — a known factor in student engagement and retention in online courses
 
+{% include figure.html image="images/template-approach.png" caption="Caption describing this screenshot" width="600px" %}
+
 ## The Result
 
 The revised template is now widely used by instructors across the college, giving every course built from it a consistent, accessible foundation and a documented path to including instructor presence from day one.
+
+{% include figure.html image="images/template-result.png" caption="Caption describing this screenshot" width="600px" %}
