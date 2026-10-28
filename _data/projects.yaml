@@ -1,4 +1,4 @@
-- title: Favorite Community Building Tools
+- title: Community Building Tools
   subtitle: Video
   group: featured
   image: images/communitytools.png
@@ -19,7 +19,7 @@
   repo: rosenbergerkm.github.io
   tags:
     - design
-    - culturally responsive teaching
+
     
 
 - title: Canvas Course Outline Example
@@ -33,16 +33,6 @@
     - community
 
 
-- title: Nine Elements of Digital Citizenship
-  subtitle: PDF
-  image: images/digcit.png
-  link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Digital%20Citizenship.pdf
-  description: An infographic about Digital Citizenship.
-  repo: rosenbergerkm.github.io
-  tags:
-    - design
-    - community
-
 - title: Online Student Workshop (Articulate Rise)
   subtitle: Articulate Rise.
   image: images/onlinestudent.png
@@ -52,6 +42,7 @@
   tags:
     - design
 
+
 - title: Course Goals & Goal Analysis
   subtitle: PDF
   image: images/goals.png
@@ -60,7 +51,6 @@
   repo: rosenbergerkm.github.io
   tags:
     - design
-
 
 
 - title: Canvas Course Template
