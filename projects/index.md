@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Content and Projects
 
-Here you’ll find content related to Design, Pedagogy, Culturally Responsive Teaching, Emerging Technologies, and Synchronous Instruction.
+Here you’ll find Instructional Design Samples and projects using both established and emerging  instructional technologies. Please use the tags below to filter by type.
 
-{% include tags.html tags="community, emerging technology, culturally responsive teaching, design, synchronous instruction and pedagogy, team work" %}
+{% include tags.html tags= "AI-related Instructional Design, Authoring Tool Samples, Course Outlines & Storyboards" %}
 
 {% include search-info.html %}
 
