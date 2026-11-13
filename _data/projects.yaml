@@ -1,14 +1,4 @@
-- title: Community Building Tools
-  subtitle: Video
-  group: featured
-  image: images/communitytools.png
-  link: https://www.youtube.com/watch?v=XB63A8-XkI4
-  description: A video about community-building tools.
-  repo: rosenbergerkm.github.io
-  tags:
-    - community
-    - synchronous instruction and pedagogy
-    
+   
   
 - title: Climate Change - Unit Plan
   subtitle: Document
@@ -18,7 +8,7 @@
   description: Module Design and Course Mapping
   repo: rosenbergerkm.github.io
   tags:
-    - design
+    - Course Outlines & Storyboards
 
     
 
@@ -29,8 +19,8 @@
   description: A PDF outline of a Canvas course.
   repo: rosenbergerkm.github.io
   tags:
-    - design
-    - community
+    - Course Outlines & Storyboards
+    - Authoring Tool Samples
 
 
 - title: Online Student Workshop (Articulate Rise)
@@ -40,7 +30,7 @@
   description: A workshop on how to use Canvas.
   repo: rosenbergerkm.github.io
   tags:
-    - design
+    - Authoring Tool Samples
 
 
 - title: Course Goals & Goal Analysis
@@ -50,7 +40,7 @@
   description: Creating and analyzing course objectives.
   repo: rosenbergerkm.github.io
   tags:
-    - design
+    - Course Outlines & Storyboards
 
 
 - title: Canvas Course Template
@@ -60,8 +50,8 @@
   description: The Canvs Course template
   repo: rosenbergerkm.github.io
   tags:
-    - design
-    - accessibility
+    - Authoring Tool Samples
+    - Course Outlines & Storyboards
 
 - title: Digital Citizenship Interactive
   subtitle: Flier/Interactive Sample
@@ -71,4 +61,3 @@
   repo: rosenbergerkm.github.io
   tags:
     - AI-related Instructional Design
-    - accessibility
